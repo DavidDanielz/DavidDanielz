@@ -7,7 +7,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-# Hi there, I'm David Peralta 👋
+# Hi there, I'm David 👋
 
 Welcome to my data-driven world! I'm a passionate data analyst who loves turning raw data into actionable insights. I am an aspiring Data Analyst with recently completed certifications, self-taught in Excel, SQL, Python, and Tableau. I am passionate about transforming data into actionable insights and am actively seeking an entry-level position to apply my skills and contribute to a dynamic team environment. Each project I undertake aims to demonstrate both my technical expertise and strong interpersonal skills.
 
