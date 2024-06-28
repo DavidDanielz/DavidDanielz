@@ -28,8 +28,8 @@ Welcome to my data-driven world! I'm a passionate data analyst who loves turning
 
 ### Certifications
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+- Google Data Analytics Professional Certificate
+- IBM Excel Basics for Data Analysis Certificate
 
 ### Portfolio 
 
