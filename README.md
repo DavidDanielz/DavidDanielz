@@ -40,7 +40,7 @@ Check out my portfolio [here](https://yourportfolio.com) to see more of my work 
 
 ### Let's Connect
 
-- [Email](mailto:DavidPeralta.Data@gmail.com)
+- [Email](mailto:David.Daniel.Peralta@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/daviddperalta)
 - [Instagram](https://Instagram.com/Daviddanielz)
 
