@@ -10,7 +10,7 @@
 
 # Hi there, I'm David 👋
 
-Welcome to my data-driven world! I'm a passionate data analyst dedicated to transforming raw data into actionable insights. Armed with certifications and skills in Excel, SQL, Python, and Tableau, I'm eager to apply my expertise in an entry-level position and contribute to dynamic team environments. Each project I undertake showcases not only my technical proficiency but also my strong interpersonal skills.
+Welcome to my data-driven world! I'm a passionate data analyst dedicated to transforming raw data into actionable insights. Armed with certifications and proficient in Excel, SQL, Python, and Tableau, I'm eager to apply my expertise in an entry-level position and contribute to dynamic team environments. Each project I undertake showcases not only my technical proficiency but also my strong interpersonal skills.
 
 ### Languages and Tools
 
