@@ -32,10 +32,10 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 ### Certifications
 
 - Google Data Analytics Professional Certificate
-- Data Analysis | R Programming | SQL | Spreadsheet Software | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
+# Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
 
 - IBM Excel Basics for Data Analysis Certificate
-- Microsoft Excel | Data Analysis | Data Science
+# Microsoft Excel | Data Analysis | Data Science
 
 ### Portfolio 
 
