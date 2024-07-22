@@ -31,7 +31,7 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 ### Certifications
 <ul>
 <li style="color:red;">Google Data Analytics Professional Certificate:</li>
-
+</ul>
   Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
 
 - IBM Excel Basics for Data Analysis Certificate:
