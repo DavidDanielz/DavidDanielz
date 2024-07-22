@@ -41,7 +41,6 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 
 Check out my portfolio [here](https://yourportfolio.com) to see more of my work and data visualizations.
 
-
 ### Let's Connect
 
 - [Email](mailto:David.Daniel.Peralta@outlook.com)
