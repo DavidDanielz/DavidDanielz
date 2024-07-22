@@ -39,6 +39,12 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 
   Microsoft Excel | Data Analysis | Data Science
 
+  <ul>
+  <li style="color:red;">Google Data Analytics Professional Certificate: <br> Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management</li>
+  <li style="color:red;">IBM Excel Basics for Data Analysis Certificate: <br> Microsoft Excel | Data Analysis | Data Science</li>
+</ul>
+
+
 ### Portfolio 
 
 Check out my portfolio [here](https://yourportfolio.com) to see more of my work and data visualizations.
