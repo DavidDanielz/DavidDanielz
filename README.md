@@ -27,11 +27,10 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 
 <br clear="left"/>
 
-
 ### Certifications
-<ul>
-<li style="color:red;">Google Data Analytics Professional Certificate:</li>
-</ul>
+
+- Google Data Analytics Professional Certificate:
+  
   Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
 
 - IBM Excel Basics for Data Analysis Certificate:
@@ -43,14 +42,11 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 Check out my portfolio [here](https://yourportfolio.com) to see more of my work and data visualizations.
 
 
-
 ### Let's Connect
 
 - [Email](mailto:David.Daniel.Peralta@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/daviddperalta)
 - [Instagram](https://Instagram.com/Daviddanielz)
-
-
 
 ### Fun Facts
 
