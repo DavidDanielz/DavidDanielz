@@ -9,7 +9,7 @@
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 Hi there, I'm David 👋  
-I'm a passionate data analyst who loves transforming raw data into actionable insights that drive impactful business decisions. With a strong foundation in SQL, Python, Tableau, and Excel, I enjoy solving complex data problems and uncovering hidden trends. I'm eager to join a dynamic team and grow in an entry-level data analyst role, where I can contribute and learn continuously.
+Data-driven analyst with a passion for transforming complex datasets into actionable business insights. Proficient in SQL, Python, Tableau, and Excel, I deliver solutions that optimize performance and support key decision-making processes. Committed to staying curious and continuously learning, I am always eager to improve and expand my expertise in data analytics. With strong communication skills and a collaborative approach, I excel at conveying insights clearly and working effectively within teams. I am enthusiastic about contributing my analytical skills in a dynamic environment and leveraging feedback to drive both personal and professional growth.
 
 
 ### Languages and Tools
