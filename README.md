@@ -12,8 +12,6 @@ Hi there, I'm David 👋
 
 Welcome to my GitHub Data Analyst Portfolio! Here, you'll find a collection of projects I've worked on. Feel free to explore my work and provide any feedback you might have—I'm always looking to improve.
 
-Data-driven analyst with a passion for transforming complex datasets into actionable business insights. Proficient in SQL, Python, Tableau, and Excel, I deliver solutions that optimize performance and support key decision-making processes. Committed to staying curious and continuously learning, I am always eager to improve and expand my expertise in data analytics. With strong communication skills and a collaborative approach, I excel at conveying insights clearly and working effectively within teams. I am enthusiastic about contributing my analytical skills in a dynamic environment and leveraging feedback to drive both personal and professional growth.
-
 
 ### Languages and Tools
 
