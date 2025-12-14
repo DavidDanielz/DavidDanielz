@@ -12,9 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/daviddperalta
+- [Email](mailto:David.Daniel.Peralta@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/daviddperalta)
+- [Instagram](https://Instagram.com/Daviddanielz)
 
 
 **Data Analyst**
@@ -24,10 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-
-Hi there, I'm David 👋  
-
-Welcome to my GitHub Data Analyst Portfolio! Here, you'll find a collection of projects I've worked on. Feel free to explore my work and provide any feedback you might have—I'm always looking to improve.
 
 
 ### Languages and Tools
@@ -55,17 +51,7 @@ Welcome to my GitHub Data Analyst Portfolio! Here, you'll find a collection of p
 
   Microsoft Excel | Data Analysis | Data Science
 
-### Let's Connect
 
-- [Email](mailto:David.Daniel.Peralta@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/daviddperalta)
-- [Instagram](https://Instagram.com/Daviddanielz)
-
-### Fun Facts
-
-- 🎧 I love making music on Logic Pro X.
-- 🥋 I enjoy Brazilian Jiu-Jitsu and exploring new techniques.
-- 📖 I am an avid reader and love reading about the latest trends in data analytics and data science.
 
 
 <!---
