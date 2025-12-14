@@ -26,21 +26,6 @@
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 
-### Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" alt="R" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40px" style="padding-right:10px;" />
-</p>
-
-
 ### Certifications
 
 - Google Data Analytics Professional Certificate:
