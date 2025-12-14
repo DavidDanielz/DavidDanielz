@@ -16,6 +16,22 @@
 - [LinkedIn](https://www.linkedin.com/in/daviddperalta)
 - [Instagram](https://Instagram.com/Daviddanielz)
 
+### Certifications
+
+- CourseCareers Information Technology Course:
+  Azure | Active Directory | DNS | Networking | osTicket
+
+- CompTIA Security Plus:
+  Currently studying for the exam. We be taking it in January 2026. 
+
+- Google Data Analytics Professional Certificate:
+  
+  Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
+
+- IBM Excel Basics for Data Analysis Certificate:
+
+  Microsoft Excel | Data Analysis | Data Science
+
 
 **Data Analyst Skills**
 
@@ -26,15 +42,6 @@
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 
-### Certifications
-
-- Google Data Analytics Professional Certificate:
-  
-  Data Analysis | R Programming | SQL | Microsoft Excel | Business Analysis | Data Visualization | General Statistics | Data Management
-
-- IBM Excel Basics for Data Analysis Certificate:
-
-  Microsoft Excel | Data Analysis | Data Science
 
 
 
