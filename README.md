@@ -12,7 +12,7 @@
 
 <h2> Connect with me:</h2>
 
-- [Email](https://david.peralta.tech@gmail.com)
+- [Email](mailto:david.peralta.tech@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/daviddperalta)
 - [Instagram](https://Instagram.com/Daviddanielz)
 
