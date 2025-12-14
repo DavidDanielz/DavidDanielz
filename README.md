@@ -17,15 +17,6 @@
 [linkedin]: https://www.linkedin.com/in/daviddperalta
 
 
-
-
-
-
-
-
-
-# David Peralta
-
 **Data Analyst**
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
