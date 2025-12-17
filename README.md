@@ -19,9 +19,11 @@
 ### Certifications
 
 - CourseCareers- Information Technology Course:
+
   Azure | Active Directory | DNS | Networking | osTicket
 
 - CompTIA- Security Plus:
+  
   Currently studying for the exam. We be taking it in January 2026. 
 
 - Google- Data Analytics Professional Certificate:
