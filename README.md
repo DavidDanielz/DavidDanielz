@@ -1,6 +1,6 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/daviddperalta">IT Professional
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/daviddperalta">IT Professional</a></h1>
 
-<h2> Information Technology Projects:</h2>
+<h3> Information Technology Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DavidDanielz/osticket-prereqs.git)
@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DavidDanielz/configure-ad.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DavidDanielz/azure-network-protocols.git)
 
-<h2> Connect with me:</h2>
+<h3> Connect with me:</h3>
 
 - [Email](mailto:david.peralta.tech@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/daviddperalta)
