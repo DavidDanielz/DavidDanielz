@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An Aspiring IT Help Desk & IAM Professional</h3>
+<h3 align="center">Aspiring IT Support Professional | Customer Service Background</h3>
 
 <p align="center">
-I have a lifelong interest in solving technical problems and a strong customer service background. I build hands-on labs to deeply understand how IT infrastructure, identity management, and help desk operations work together from end to end.
+I am transitioning into IT from a customer service background, with a lifelong interest in solving technical problems. I build hands-on labs in Azure, Active Directory, and osTicket to fully understand how IT infrastructure and identity management work together to support end-users.
 </p>
 
 ---
