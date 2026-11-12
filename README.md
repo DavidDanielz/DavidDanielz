@@ -1,6 +1,6 @@
 <h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/daviddperalta">IT Professional</a></h1>
 
-<h3> Information Technology Projects:</h3>
+<h3> IT Support & Help Desk:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DavidDanielz/osticket-prereqs.git)
