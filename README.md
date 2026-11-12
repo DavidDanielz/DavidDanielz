@@ -13,6 +13,7 @@
   - [Active Directory Deployment & Administration in Azure](https://github.com/DavidDanielz/configure-ad.git)
 
 <h3> Cloud & Networking:</h3>
+
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DavidDanielz/azure-network-protocols.git)
 
 <h3> Connect with me:</h3>
