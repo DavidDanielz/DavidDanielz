@@ -34,7 +34,7 @@ I am transitioning into IT from a customer service background, with a lifelong i
 
 *   **CourseCareers - Information Technology Course**
     *   *Focus: Azure | Active Directory | DNS | Networking | osTicket*
-*   **CompTIA Security+** *(In Progress - Expected Jan 2026)*
+*   **CompTIA Security+** *(In Progress - Expected Jan 2027)*
     *   *Currently studying for the exam.*
 *   **Google - Data Analytics Professional Certificate**
     *   *Focus: SQL | R Programming | Microsoft Excel | Data Visualization*
